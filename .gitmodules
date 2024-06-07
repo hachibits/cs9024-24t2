@@ -1,0 +1,3 @@
+[submodule "sheisc:COMP9024"]
+	path = sheisc:COMP9024
+	url = https://github.com/sheisc/COMP9024
