@@ -42,4 +42,9 @@ build/
 
 # Misc
 .vscode/
-main
+
+# Ignore CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
